@@ -8,7 +8,7 @@ Hello and welcome to my page! I am currently a penultimate year student in mathe
 
 ### CV
 
-A place to include any other types of information that you'd like to include about yourself.
+https://github.com/apahljina/apahljina.github.io/blob/master/Ainsley%20Pahljina%20CV.pdf
 
 ### Contact me
 
