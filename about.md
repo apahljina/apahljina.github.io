@@ -8,8 +8,8 @@ Hello and welcome to my page! I am currently a penultimate year student in mathe
 
 ### CV
 
-[Link to a document]({{ https://github.com/apahljina/apahljina.github.io/blob/master }}{% Ainsley%20Pahljina%20CV.pdf %})
+{{ site.baseurl }}/pdfs/Ainsley Pahljina CV.pdf
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ainsley@pahljina.com](mailto:ainsley@pahljina.com)
