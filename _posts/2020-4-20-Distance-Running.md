@@ -10,7 +10,7 @@ Over the last three years I have trained fairly consistently as a long to ultra 
 I was interested in quantifying the accumulated intensity of my training, applying a decay function to model recovery time, and comparing the smoothed intensity data to recorded injuries and personal bests. For a quick preview, the red bars give the accumulated training intensity on the date of an activity, the blue shows where personal bests were achieved, and the green shows injuries. Whilst the model was able to recognise my injury in Sept 2019, a bone stress reaction distinctly caused by overloading, the other more acute injuries were less predictable.
 
 
-({{ site.baseurl }}/images/running.png)
+![_config.yml]({{ site.baseurl }}/images/running.png)
 
 Find my whole analysis and rationale here: 
 
