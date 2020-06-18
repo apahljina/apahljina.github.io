@@ -11,5 +11,5 @@ This was arguably initiated by the $1 million Netflix prize completed in 2009 (r
 
 This research project was completed within an advanced topics course for data science at the University of Arizona. I wish to thank Dr Keaton Hamm for his support and feedback in completing this project at the height of the COVID-19 pandemic, whilst straddling the Australia-US time difference. 
 
-<a href="https://apahljina.github.io/_posts/_Applied-Statistical-Analytics---Distance-Running.html" target="_blank">Matrix Completion for Recommendation Systems</a>
+<a href="https://apahljina.github.io/_posts/Applied-Statistical-Analytics---Distance-Running.html" target="_blank">Matrix Completion for Recommendation Systems</a>
 
