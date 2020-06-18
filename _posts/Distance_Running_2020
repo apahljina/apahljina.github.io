@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Matrix Completion and the Netflix Prize
+title: Strava Analysis: identifying injury risk
 ---
 
 Recommendation systems aim to predict a preference or rating value based on a user-product matrix. The matrix encapsulates known preferences of users, with unrated or used products left blank or zeroed. As the name suggests, matrix completion aims to fill in these unknown values whilst pertaining to known entries. Seems simple enough? - the recommendation system arms race between social media, streaming and tech giants incited a rapid expansion in sophistication and scale. 
