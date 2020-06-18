@@ -7,6 +7,6 @@ Recommendation systems aim to predict a preference or rating value based on a us
 
 This research project was completed within an advanced topics course for data science at the University of Arizona. I wish to thank Dr Keaton Hamm for his support and feedback in completing this project at the height of the COVID-19 pandemic, whilst straddling the Australia-US time difference. 
 
-<a href="https://apahljina.github.io/pdf/Final%20Project%20-%20Pahljina.pdf" target="_blank">Matrix Completion for Recommendation Systems</a>
+<a href="https://apahljina.github.io/Final%20Project%20-%20Pahljina.pdf" target="_blank">Matrix Completion for Recommendation Systems</a>
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
