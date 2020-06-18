@@ -13,3 +13,5 @@ This research project was completed within an advanced topics course for data sc
 
 <a href="https://apahljina.github.io/Final%20Project%20-%20Pahljina.pdf" target="_blank">Matrix Completion for Recommendation Systems</a>
 
+<a href="{{ site.baseurl }}" class="read-less">Read Less</a>
+
