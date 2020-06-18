@@ -1,10 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: Matrix Completion and the Netflix Prize
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Recommendation systems aim to predict a preference or rating value based on a user-product matrix. The matrix encapsulates known preferences of users, with unrated or used products left blank or zeroed. As the name suggests, matrix completion aims to fill in these unknown values whilst pertaining to known entries. Seems simple enough? - the recommendation system arms race between social media, streaming and tech giants incited a rapid expansion in sophistication and scale. This was arguably initiated by the $1 million Netflix prize completed in 2009 (read more here: https://www.netflixprize.com). The winning entry, built on matrix completion and factorisation techniques, yielded an 14.3% RMSE reduction. The algorithm isn't very palatable without a strong foundation of statistics, mathematics and computing. In narrowing in on matrix completion methods, my research aimed to detail the underpinning mathematics and produce recommendation systems for a movie database using varied importable inputation algorithms in Python. 
+
+This research project was completed within an advanced topics course for data science at the University of Arizona. I wish to thank Dr Keaton Hamm for his support and feedback in completing this project at the height of the COVID-19 pandemic, whilst straddling the Australia-US time difference. 
+
+<a href="https://apahljina.github.io/pdf/Final%20Project%20-%20Pahljina.pdf" target="_blank">Matrix Completion for Recommendation Systems</a>
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
